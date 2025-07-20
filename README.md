@@ -76,7 +76,7 @@ The following Python libraries were essential for this project:
 * `Model_A.ipynb`: Linear Regression with 1 feature
 * `Model_B.ipynb`: Linear Regression with 2 feature
 * `Model_C.ipynb`: Linear Regression with 4 feature
-* `ssh.csv`: The dataset used in the project. (Renamed the original dataset variable from `student_study_habits` to `ssh` for easier reference during coding)
+* `ssh.csv`: The dataset used in the project. (Renamed the original dataset name from `student_study_habits` to `ssh` for easier reference during coding)
 * `README.md`: This documentation file.
 
 ## Key Insights and Conclusion
